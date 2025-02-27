@@ -406,8 +406,8 @@ a{
     }
 
     .div-conteudo button{
-        background-color: #23254D;
-        color: white;
+        background-color: #ffde59;
+        color: black;
         border: 0px;
         height: 3vh;
         border-radius: 8px;
@@ -417,7 +417,7 @@ a{
 
     #primeiro-bloco{
         width: 100%;
-        height: 70vh;
+        height: 60vh;
         background-image: url(./imagens_modelo/background.png);
         background-size: cover;
         background-position: 0;
@@ -677,6 +677,11 @@ a{
 
     .div-row{
         height: 3.5vh;
+        width: 80%;
+    }
+
+    #div-email{
+        width: 100%;
     }
    
     .div-row div{
